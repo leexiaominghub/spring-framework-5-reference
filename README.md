@@ -1,4 +1,5 @@
 # spring-framework-5-reference
+
 《Spring Framework 5.x参考文档》中文翻译（包含了官方文档以及其他文章），基于Spring 5.2.6.RELEASE版本官方文档翻译，官方地址为：https://docs.spring.io/spring/docs/5.2.6.RELEASE/spring-framework-reference/
 
 ### 目录
@@ -28,6 +29,6 @@
 
 - 微信公号：扫码关注
 
-  <div style="text-align:left"><img src="https://blog.belonk.com/attachment/20200415/23cd79cb78874bd495af79152b35de77.jpg" width="50%"></img></div>
+  <div style="text-align:left"><img src="https://blog.belonk.com/attachment/20200415/23cd79cb78874bd495af79152b35de77.jpg" width="30%"></img></div>
 
 `^_^`翻译工作真的好难，我也不知道我能坚持多久，继续努力吧O(∩\_∩)O~！
