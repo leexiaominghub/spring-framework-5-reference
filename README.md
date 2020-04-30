@@ -4,8 +4,8 @@
 
 ### 目录
 
-- [I.Spring概述](https://github.com/belonk/spring-framework-5-reference/blob/master/I.OverView/OverView.md)
-- [II.Spring核心技术](https://github.com/belonk/spring-framework-5-reference/blob/master/II.Core/0.&nbsp;Introduction.md)
+- [I.Spring概述](I.OverView/OverView.md)
+- [II.Spring核心技术](II.Core/0.%20Introduction.md)
 - III.Testing
 - IV.Data Access
 - V.Web Servlet
